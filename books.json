@@ -1,0 +1,39 @@
+{
+  "books": [
+    {
+      "title": "The Name of the Wind",
+      "author": "Patrick Rothfuss",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/I/91b8oNwaV1L.jpg",
+      "description": "also called The Kingkiller Chronicle: Day One, is a fantasy novel written by American author Patrick Rothfuss. It is the first book in a series called The Kingkiller Chronicle and followed by The Wise Man's Fear.",
+      "id": "1"
+    },
+    {
+      "id": "358f",
+      "title": "The Book of Bill",
+      "author": "Alex Hirsch",
+      "coverImage": "https://prodimage.images-bn.com/pimages/9781368104807_p0_v17_s600x595.jpg",
+      "description": "For all of you still living in the world of Gravity Falls, Alex Hirsch has brought back his most nefarious of villains — Bill. The Book of Bill is Bill’s chance to tell his story, from his evil origin to an interactive array of puzzles and ciphers, all brought to you by the mastermind himself. This is Gravity Falls as you’ve never seen before. Even better, the Barnes & Noble exclusive brings you even more Bill."
+    },
+    {
+      "id": "2653",
+      "title": "  Onyx Storm (Deluxe Limited Edition) ",
+      "author": "Rebecca Yarros",
+      "coverImage": "https://prodimage.images-bn.com/pimages/9781649374189_p0_v8_s600x595.jpg",
+      "description": "The shocking ending to Iron Flame left us with a dizzying need for the third installment of Yarros’ phenomenal series. With love gained and lost, battles waged and won — Onyx Storm is another razor-sharp ride on dragon back."
+    },
+    {
+      "id": "15bb",
+      "title": "  A Christmas Duet",
+      "author": "Debbie Macomber",
+      "coverImage": "https://prodimage.images-bn.com/pimages/9780593725337_p0_v1_s600x595.jpg",
+      "description": "A solo holiday trip inspires one woman to rediscover her passion—and remember that, sometimes, duets are more fun—in this romantic Christmas novel from #1 New York Times bestselling author Debbie Macomber."
+    },
+    {
+      "id": "544c",
+      "title": "দুই দুয়ারী",
+      "author": " হুমায়ূন আহমেদ",
+      "coverImage": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1421508008i/24546268.jpg",
+      "description": "আমি প্রায়ই কিছু অদ্ভুত চরিত্র নিয়ে ভাবি । এমন কিছু চরিত্র যাদের কখনো কোথাও খুঁজে পাওয়া যাবে না। অবশ্যি এ ধরনের চরিত্র নিয়ে কিছু লিখতে ভরসা হয় না। কারণ আমি জানি লেখা মাত্র আমাকে অসংখ্য প্রশ্নের মুখোমুখি হতে হবে। পাঠক-পাঠিকা জানতে চাইবেন, ‘লোকটা কে?’ ‘সে কোত্থেকে এসেছে?’ “ব্যাপারটা কি?” “কি হচ্ছে?” আমি এসব প্রশ্নের জনাব জানি না। অবশ্যি সব প্রশ্নের জবাব যে জানতেই হবে তারও তো কোনো কথা নেই। এই ভেবেই শেষ পর্যন্ত লিখে ফেললাম। লেখার খসড়া একটি ঈদ সংখ্যায় প্রকাশিত হয়েছিল। পুস্ককাকারে পরিপূর্ণ লেখাটি প্রকাশিত হলো। কেউ গুরুত্বের সঙ্গে এই লেখাটি বিবেচনা না করলেই খুশি হবো।"
+    }
+  ]
+}
